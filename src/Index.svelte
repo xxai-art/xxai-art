@@ -1,6 +1,6 @@
 <template lang="pug">
 b
-  h1 {name}
+  h1 测试
 </template>
 
 <script lang="coffee">
@@ -8,13 +8,13 @@ b
   @w5/fetch/fMsg
   ./lib/title.coffee
 
-onMount =>
-  {
-    host
-    logo
-  } = await fMsg '//127.0.0.1:7776/conf'
-  title host
-  return
+# onMount =>
+#   {
+#     host
+#     logo
+#   } = await fMsg '//127.0.0.1:7776/conf'
+#   title host
+#   return
 </script>
 
 <style lang="stylus">
