@@ -1,3 +1,15 @@
+## I18N
+
+## TODO
+
+特性
+
+翻译多国语言
+翻译代码注释
+保存修改后的译文
+
+##
+
 6du space 的
 404
 https://6du-space.github.io/note
